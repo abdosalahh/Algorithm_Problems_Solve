@@ -1,0 +1,12 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba and the FINITE Items\[SOLUTION]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba and the FINITE Items\[SOLUTION]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba and the FINITE Items\[SOLUTION]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba and the FINITE Items\[SOLUTION]\AliBabaInCaveII\obj\Debug\AliBabaInCaveII.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba and the FINITE Items\[SOLUTION]\AliBabaInCaveII\obj\Debug\AliBabaAndNHouses.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U9 - AUTOGRADE] Ali Baba and the FINITE Items\[SOLUTION]\AliBabaInCaveII\obj\Debug\AliBabaAndNHouses.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U5] Ali Baba in Paradise\[SOLUTION]\AliBabaInCaveII\bin\Debug\AliBabaAndNHouses.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U5] Ali Baba in Paradise\[SOLUTION]\AliBabaInCaveII\obj\Debug\AliBabaAndNHouses.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U5] Ali Baba in Paradise\[SOLUTION]\AliBabaInCaveII\obj\Debug\AliBabaAndNHouses.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U5] Ali Baba in Paradise\[SOLUTION]\AliBabaInParadise\bin\Debug\AliBabaAndNHouses.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U5] Ali Baba in Paradise\[SOLUTION]\AliBabaInParadise\obj\Debug\AliBabaAndNHouses.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\DP\[U5] Ali Baba in Paradise\[SOLUTION]\AliBabaInParadise\obj\Debug\AliBabaAndNHouses.pdb

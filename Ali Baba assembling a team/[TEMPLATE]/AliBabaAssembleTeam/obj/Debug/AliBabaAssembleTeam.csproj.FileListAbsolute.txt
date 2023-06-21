@@ -1,0 +1,14 @@
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.exe.config
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.pdb
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.exe
+E:\COURSES\Algorithms\[1] [ALL PROBLEMS - CODE]\UNIFIED OUTPUT\GREEDY\[U3] Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.pdb
+D:\Algorithm\New folder\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.exe.config
+D:\Algorithm\New folder\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.exe
+D:\Algorithm\New folder\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\bin\Debug\AliBabaAssembleTeam.pdb
+D:\Algorithm\New folder\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.csproj.AssemblyReference.cache
+D:\Algorithm\New folder\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.csproj.SuggestedBindingRedirects.cache
+D:\Algorithm\New folder\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.csproj.CoreCompileInputs.cache
+D:\Algorithm\New folder\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.exe
+D:\Algorithm\New folder\Ali Baba assembling a team\[TEMPLATE]\AliBabaAssembleTeam\obj\Debug\AliBabaAssembleTeam.pdb
